@@ -1,1 +1,1 @@
-Hello! It's a beautiful day!!!
+It's a beautiful day!
